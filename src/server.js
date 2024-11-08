@@ -17,4 +17,6 @@ const init = async () => {
     console.log(`Listening on port ${server.info.uri}`);
 };
 
+console.log("Hello World")
+
 init();
